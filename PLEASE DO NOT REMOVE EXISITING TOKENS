@@ -1,0 +1,17 @@
+{
+      "address": "TLMgXeSPVQsBXQjUf6QXn575h8SEK782oV",
+      "symbol": "XRT",
+      "name": "norT",
+      "decimals": 18,
+      "logoURI": "https://nort.meme/wp-content/uploads/2023/12/website-e1703975309603.png",
+      "homepage": "https://nort.meme/",
+      "MarketCapLink": "https://coinmarketcap.com/dexscan/tron/TR9RhTt6a6VjXrec8ErTntmLH8Z7SEswaM/",
+      "existingMarkets": [
+          {
+              "source": "sunswap",
+              "pairs": [
+                  "XRT/TRX",
+              ]
+          }
+    ]
+}
